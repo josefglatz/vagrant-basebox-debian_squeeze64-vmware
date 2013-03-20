@@ -6,14 +6,12 @@ VMware Fusion Debian Squeeze64 Base Box for Vagrant
 Facts about the box
 -------------------
 
-* OS: Debian Squeeze64
-* CPUs: 2
-* RAM: 1024MB
+* *OS:* Debian Squeeze64
+* *CPUs:* 2
+* *RAM:* 1024MB
 * Built with VMware Fusion 5 Pro
-* vagrant specifc configuration
-** passwordless SSH access
-** VMware Tools
-** sudo configuration
+* vagrant specifc configuration (passwordless SSH access, VMware Tools, sudo configuration)
+* *User/Password:* vagrant
 * Box-Size: 334,9 MB
 
 How to Use
