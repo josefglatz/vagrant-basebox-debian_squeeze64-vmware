@@ -1,4 +1,4 @@
-vagrant-basebox-debian_squeeze64-vmware_fusion_provider--
-=========================================================
+VMware Fusion Debian Squeeze64 Base Box for Vagrant
+===================================================
 
-Debian Squeeze64 Vagrant Base Box for custom VMware provider
+Howto use it is described at vagrantup.com http://docs.vagrantup.com/v2/vmware-fusion/usage.html
