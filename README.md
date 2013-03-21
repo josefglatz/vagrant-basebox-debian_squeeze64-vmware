@@ -19,3 +19,5 @@ How to Use
 
 How to use the box with vagrant is described at http://docs.vagrantup.com/v2/vmware-fusion/usage.html
 
+
+If you find an bug or any missing feature, create an issue!
